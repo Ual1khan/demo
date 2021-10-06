@@ -1,11 +1,11 @@
 {
   "coffees": [
-    { "id": 1, "name": "Espresso", "img": "someurl.png", "price": 5 },
-    { "id": 2, "name": "Latte", "img": "someurl.png", "price": 3 },
-    { "id": 3, "name": "Capuccino", "img": "someurl.png", "price": 4 }
+    { "id": "1", "name": "Espresso", "img": "someurl.png", "price": 5 },
+    { "id": "2", "name": "Latte", "img": "someurl.png", "price": 3 },
+    { "id": "3", "name": "Capuccino", "img": "someurl.png", "price": 4 }
   ],
   "additionals": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": "1", "name": "sugar" },
+    { "id": "2", "name": "milk" }
   ]
 }
