@@ -7,11 +7,11 @@
     { "id": "5", "name": "Ice Latte", "img": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2019%2F09%2FCoffee-National-Coffee-Day-FT-Blog0919.jpg", "price": 7 }
   ],
   "additionals": [
-    { "id": "1", "name": "sugar", "price": 1 },
-    { "id": "2", "name": "chocolate syrup", "price": 0.5 },
-    { "id": "3", "name": "caramel syrup", "price": 2.5 },
-    { "id": "4", "name": "vanilla syrup", "price": 2 },
-    { "id": "5", "name": "cinnamon", "price": 3 },
-    { "id": "5", "name": "chocolate chips", "price": 1.5 }
+    { "name": "sugar", "price": 1 },
+    { "name": "chocolate syrup", "price": 0.5 },
+    { "name": "caramel syrup", "price": 2.5 },
+    { "name": "vanilla syrup", "price": 2 },
+    { "name": "cinnamon", "price": 3 },
+    { "name": "chocolate chips", "price": 1.5 }
   ]
 }
