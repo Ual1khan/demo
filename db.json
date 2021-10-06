@@ -1,15 +1,16 @@
+
+   
 {
-  "coffees": [
-    { "id": "1", "name": "Espresso", "price": 5 },
-    { "id": "1", "name": "Latte", "price": 4 },
-    { "id": "1", "name": "Cappuccino", "price": 3 },
-    { "id": "1", "name": "Americano", "price": 5 },
-    { "id": "1", "name": "Ice latte", "price": 6 },
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
-  "additionals": [
-    { "name": "sugar", "price": 1 },
-    { "name": "milk", "price": 2 },
-    { "name": "coritsa", "price": 2 },
-    { "name": "choco", "price": 3 },
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
