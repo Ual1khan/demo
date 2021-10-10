@@ -13,5 +13,6 @@
     { "name": "vanilla syrup", "price": 2 },
     { "name": "cinnamon", "price": 3 },
     { "name": "chocolate chips", "price": 1.5 }
-  ]
+  ],
+  "orders": []
 }
